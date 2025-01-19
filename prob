@@ -1,0 +1,53 @@
+Topics : 
+
+1.) cardinality and countability:
+    - image and pre-images (domain and co-domain (range))
+    - function, 
+        -many to one is allowed but one to many does not allowed
+        -injective function : one to one
+        -subjective function : range == co-domain
+        -bijective function : f which is subjective and injective
+        
+    - infinite sets- where is cardinality?
+        - using bijective function you can identify the cardinality of infinite sets!!!!
+        - if you can find bijection between two set A and B, both have same cardinality
+
+        - countablity : Set is said to be countably-infinite if set is equicardinal with Natural set(N)
+            -countable sets : - either finite or countably infinite
+                example of infinite countable set : set of even numbers, set of all the prime number, set of all the odd number,Z, set of rational numbers(Q) is also infinitely countable.
+                -uncountable infinite : set which are countably bigger then N.
+
+                -countable union of countable set is countable!
+                
+                - Algebric numbers (countable set): a number 'x' for which non-zero polynomial function P(X) exists, whose root is 'x', then 'x' is said to be Algebric number
+                    i.e: 5 Algebric number because we can have P(x) :  x-5=0 
+                          root of 5 is also algebrci because P(x): x^2 -5 =0
+                - computable numbers (countable set)
+            -un-countable  infinite: if set A has cardinality stricly > N. or no bijection(domain > range)
+                example of infinite un-countable set : R-Q, 2^N, {0,1}^infinite
+                
+2.) Probability space :
+    - 'Random experiements' and 'Outcome' are two entitys we do not question
+    - 'Sample space' of random experiements - it can be counably, uncountable, countable identify
+        - i.e: for coin toss --> {H,T}^infinite is Sample space.
+    - Subset of Sample space to which are "intest" are called 'Event'.
+        - i.e: tossing coin 3 times and geting atleast 2 H --> {HHH,HHT,HTH,THH}
+    
+    - "All the Events are subset of Sample space but not all the subsets of Sample space are Events!!!"
+    - Algebra - three conditions should be fulfilled --(collection of subset of Omega close under "complimentation" and "finite union or finite intersection")
+    - sigma-Algebra (collection of subset of Omega close under "complimentation" and "countably  infinite union or counably infinite intersection")
+    - All Sigma-Algebra is Algebra but not all Algebra are Sigma-Algebra.
+    - subset in Sigma-Algebra are called f-measureable set.
+
+     
+    -> Probability theory works on Sample space and Sigma Algebra of a subset defines on a sample space.
+    - For given Sample space we can build many sigmaAlgebra but it should be close under countably infinite unions.
+    - on which sigmaAlgebra you want to work is also upto us.
+    - what subset of Sample Space you are include in to sigmaAlgebra.
+    - We can take all the subset of countable sample spaces(countable and infinitely counably) and assign Probability to each one.
+      But if omega(sample space) is uncountable, then power set of omega (2^omega) is too larger collection to assign Probability. So we can not always take 2^omega all the time as sigmaAlgebra.
+      (omega,sigmaAlgebra) --> measureable space.
+
+      measure : sigmaAlgebra--->[0,infinite].
+
+      Probability measure : sigmaAlgebra ---> [0,1]
