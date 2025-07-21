@@ -2,7 +2,8 @@
 
 - **Classification Projects**
   - [Classification on FashionMNIST](https://github.com/Darshan2104/DeepLearning-with-Torch/blob/main/Introduction%20to%20PyTorch%20(Microsoft)/tutorial.ipynb)
-  - [News Classification](https://github.com/Darshan2104/DeepLearning-with-Torch/blob/main/TextClassifier.ipynb)
+  - [News Classification](https://github.com/Darshan2104/DeepLearning-with-Torch/blob/main/CaseStudy/AGNewsTextClassifier.ipynb)
+  
 
 - **Deep Learning - Neural Network**
   - [Linear Regression](https://github.com/Darshan2104/DeepLearning-with-Torch/blob/main/4.LinearRegression.ipynb)
