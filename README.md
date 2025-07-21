@@ -10,7 +10,7 @@
   - [Logistic Regression](https://github.com/Darshan2104/DeepLearning-with-Torch/blob/main/5.LogisticRegression.ipynb)
   - [RNN](https://github.com/Darshan2104/DeepLearning-with-Torch/blob/main/6.RNN.ipynb)
   - [GRU](https://github.com/Darshan2104/DeepLearning-with-Torch/blob/main/7.GRU.ipynb)
-  - [Seq2Seq](8.0.ipynb)
+  - [Seq2Seq](https://github.com/Darshan2104/DeepLearning-with-Torch/blob/main/8.0.Seq2Seq.ipynb)
 
 - **EDA: Exploratory Data Analysis**
   - [Exploratory_Data_Analysis_BlackFriday_Sales.ipynb](https://github.com/Darshan2104/DeepLearning-with-Torch/blob/main/EDA/Exploratory_Data_Analysis_BlackFriday_Sales.ipynb)
